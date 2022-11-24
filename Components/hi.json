@@ -1,0 +1,29 @@
+{
+    "translation": {
+      "React Native has":"प्रतिक्रियाशील मूल निवासी है ",
+      " basic Components?": " मौलिक संघटक?",
+      " ________is used to create immutable stylesheet references?":"________ का उपयोग अपरिवर्तनीय स्टाइलशीट संदर्भ बनाने के लिए किया जाता है?",
+      "Interaction manager":"इंटरेक्शन मैनेजर",
+      " Redux":" रेडक्स",
+      "stylesheet":"शैली पत्रक",
+      "none":"कोई भी नहीं",
+      "Virtual DOM creates a copy of the whole DOM object":"वर्चुअल DOM पूरे DOM ऑब्जेक्ट की कॉपी बनाता है",
+      "True":"सत्य",
+      "False":"असत्य",
+      "Mirror":"दर्पण", 
+      "Firefly":"जुगनू",
+      "Pinhole Camera":"पिनहोल कैमरा",
+      "Moon":"चांद",
+      "Non-Luminous":"गैर चमकदार",
+      "Inverted Image":"उलटी छवि",
+      "Reflection":"प्रतिबिंब",
+      "Luminous":"प्रकाशमान",
+      "Component lifecycle consists of?":"घटक जीवनचक्र में शामिल हैं?",
+      "Initialization Phase":"प्रारंभिक चरण",
+      "Mounting Phase":"बढ़ते चरण",
+      "Update Phase":"अद्यतन चरण",
+      "Unmounting Phase":"अनमाउंटिंग चरण",
+      "DOMPhase":"डोमफेज़",
+      "Match the following":"निम्नलिखित को मिलाएं"
+    }
+} 
