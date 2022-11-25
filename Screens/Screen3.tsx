@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
   },
   detailmainContainer: {
     height: "30%",
-    borderColor: "#8c949f",
+    borderColor: "#00008B",
     borderRadius: 5,
     borderWidth: 3,
   },
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     width: 300,
-    borderBottomColor: "#8c949f",
+    borderBottomColor: "#00008B",
     borderBottomWidth: 1,
   },
   textContainer: {
@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
     height: 80,
     alignItems: "center",
     padding: "6%",
-    backgroundColor: "#8c949f",
+    backgroundColor: "#00008B",
     marginBottom: 20,
   },
   scoreTextContainer: {
