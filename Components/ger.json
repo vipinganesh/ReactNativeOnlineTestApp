@@ -2,7 +2,7 @@
     "translation": {
       "React Native has":"React Native hat",
       " basic Components?": " grundlegende Bestandteile?",
-      " ________is used to create immutable stylesheet references?":"________wird verwendet, um unveränderliche Stylesheet-Referenzen zu erstellen?",
+      "________is used to create immutable stylesheet references?":"________wird verwendet, um unveränderliche Stylesheet-Referenzen zu erstellen?",
       "Interaction manager":"Interaktionsmanager",
       " Redux":" Redux",
       "stylesheet":"Stylesheet",

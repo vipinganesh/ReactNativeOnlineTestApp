@@ -151,7 +151,7 @@ export function Screen2() {
             {questionArray[inputIndex].questionType.toString() === "matches" ? (
               <>
                 <Text style={styles.questionTextContainer}>
-                  Q. {inputIndex}. {i18next.t("Match the following")}
+                  Q. {inputIndex + 1}. {i18next.t("Match the following")}
                 </Text>
                 <View style={styles.questionMatchesContainer}>
                   <View>
