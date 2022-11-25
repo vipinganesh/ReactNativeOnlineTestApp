@@ -231,7 +231,7 @@ export function Screen2() {
                 ) : (
                   <>
                     <Text style={styles.questionTextContainer}>
-                      Q. {inputIndex + 1}.{" "}
+                      Q.{inputIndex + 1}.{" "}
                       {i18next.t(
                         questionArray[inputIndex].question[0].toString()
                       )}
